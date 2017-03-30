@@ -71,6 +71,8 @@ public class MainActivity extends ReactActivity {
 
 ## Usage in iOS
 
+First: [See the example](example/ios/README.md)
+
 In the share extension `loadView()` method, add:
 
 ```Objective-c
